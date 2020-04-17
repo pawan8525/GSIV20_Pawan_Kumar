@@ -1,0 +1,10 @@
+.movieDetail{
+    display: flex
+}
+.movieImage{
+    max-width: 200px;
+    max-height:264px ;
+}
+.movieDescription{
+    padding-left: 10px;
+}
